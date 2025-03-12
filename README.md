@@ -2,7 +2,7 @@
   <img src="LogoOlimpo.png" alt="Logo Olimpo" width="200px">
 </p>
 
-[![Ver Site](https://img.shields.io/badge/🔗%20Ver%20Site-blue?style=for-the-badge)]([https://teusite.com](https://rafapitherpizza.github.io/landingpageteste/landingpage.html#ods))
+[![Ver Site]([https://img.shields.io/badge/](https://rafapitherpizza.github.io/landingpageteste/landingpage.html#ods)🔗%20Ver%20Site-blue?style=for-the-badge)]([https://teusite.com](https://rafapitherpizza.github.io/landingpageteste/landingpage.html#ods))
 
 # Site Olimpo 
 
